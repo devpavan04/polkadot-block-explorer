@@ -1,0 +1,14 @@
+.form-styles {
+  margin: 1rem auto;
+  width: 300px;
+}
+
+.form-styles form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-styles form input {
+  width: 100%;
+}

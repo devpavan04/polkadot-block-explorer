@@ -1,0 +1,36 @@
+.block-details p {
+  margin: 0.5rem;
+}
+
+.block-details {
+  display: block;
+  width: fit-content;
+  margin: 2rem auto;
+  padding: 0.5rem;
+  word-wrap: break-word;
+  animation-name: emergingblock;
+  animation-duration: 1s;
+  animation-timing-function: ease-in-out;
+  animation-delay: 0s;
+  border-bottom: 4mm ridge rgb(170, 50, 220, .6);
+}
+
+@keyframes emergingblock {
+  0% {
+    transform: scale(0);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@media screen and (min-width: 360px) and (max-width: 767px) {
+  .container {
+    padding: 0 5px;
+  }
+
+  .block-details {
+    width: unset;
+  }
+}
