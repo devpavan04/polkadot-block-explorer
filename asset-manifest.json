@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/polkadot-block-explorer/static/css/main.10ab6c2c.chunk.css",
+    "main.js": "/polkadot-block-explorer/static/js/main.3dcf2ef6.chunk.js",
+    "main.js.map": "/polkadot-block-explorer/static/js/main.3dcf2ef6.chunk.js.map",
+    "runtime-main.js": "/polkadot-block-explorer/static/js/runtime-main.dbece59a.js",
+    "runtime-main.js.map": "/polkadot-block-explorer/static/js/runtime-main.dbece59a.js.map",
+    "static/js/2.5164e900.chunk.js": "/polkadot-block-explorer/static/js/2.5164e900.chunk.js",
+    "static/js/2.5164e900.chunk.js.map": "/polkadot-block-explorer/static/js/2.5164e900.chunk.js.map",
+    "index.html": "/polkadot-block-explorer/index.html",
+    "static/css/main.10ab6c2c.chunk.css.map": "/polkadot-block-explorer/static/css/main.10ab6c2c.chunk.css.map",
+    "static/js/2.5164e900.chunk.js.LICENSE.txt": "/polkadot-block-explorer/static/js/2.5164e900.chunk.js.LICENSE.txt",
+    "static/media/loader.3f6ea0a7.gif": "/polkadot-block-explorer/static/media/loader.3f6ea0a7.gif",
+    "static/media/polkadot.ec05169c.png": "/polkadot-block-explorer/static/media/polkadot.ec05169c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbece59a.js",
+    "static/js/2.5164e900.chunk.js",
+    "static/css/main.10ab6c2c.chunk.css",
+    "static/js/main.3dcf2ef6.chunk.js"
+  ]
+}
